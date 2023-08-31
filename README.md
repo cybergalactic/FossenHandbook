@@ -2,9 +2,7 @@
 
 Handbook of Marine Craft Hydrodynamics and Motion Control is an extensive study of the latest research in marine craft hydrodynamics, guidance, navigation, and control (GNC) systems. The text establishes how the implementation of mathematical models and modern control theory can be used to simulate and verify control systems. 
 
-ISBN: 978-1-119-57505-4
-
-<img src="./src/bookcover.jpg" width="150" />     [Errata.pdf](https://www.dropbox.com/scl/fi/y9p0h9plajkneqhajxfmu/Errata.pdf?rlkey=gxphdojvc67v0xnsxnvx5fz08&dl=0)
+<img src="./src/bookcover.jpg" width="150" />  ISBN: 978-1-119-57505-4   [Errata.pdf](https://www.dropbox.com/scl/fi/y9p0h9plajkneqhajxfmu/Errata.pdf?rlkey=gxphdojvc67v0xnsxnvx5fz08&dl=0)
 
 [Thor I. Fossen](https://www.ntnu.edu/employees/tif)
 
