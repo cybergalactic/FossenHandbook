@@ -1,14 +1,12 @@
 # Handbook of Marine Craft Hydrodynamics and Motion Control, 2nd Edition
 
-## 2021
-
 ISBN: 978-1-119-57505-4
 
 <img src="./bookcover.jpg" width="100" />
 
 [Thor I. Fossen](https://www.ntnu.edu/employees/tif) 
 
-[John Wiley & Sons Ltd. 2021](https://www.wiley.com/en-in/Handbook+of+Marine+Craft+Hydrodynamics+and+Motion+Control,+2nd+Edition-p-9781119575054l)
+[John Wiley & Sons Ltd., 2021](https://www.wiley.com/en-in/Handbook+of+Marine+Craft+Hydrodynamics+and+Motion+Control,+2nd+Edition-p-9781119575054l)
 
 ## Lecture Material
 
