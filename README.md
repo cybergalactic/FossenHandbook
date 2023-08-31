@@ -14,4 +14,4 @@ The following lecture slides are included as a resource for students, researcher
 
 | Chapter | PDF Slides | Last Modified |
 |---------|------------|------------|----------|
-| Chapter 1 - Introduction | [chap1.pdf] (XX) |  | 4/4/2022  |
+| 1 - Introduction | [ch1.pdf] (XX) | 2023-08-01  |
