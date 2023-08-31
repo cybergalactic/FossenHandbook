@@ -13,5 +13,5 @@ ISBN: 978-1-119-57505-4
 The following lecture slides are included as a resource for students, researchers, and instructors. 
 
 | Chapter | PDF Slides | Last Modified |
-|---------|------------|------------|----------|
-| 1 - Introduction | [ch1.pdf] (XX) | 2023-08-01  |
+|---------|------------|---------------|
+| 1 - Introduction | ch1.pdf (XX) | 2023-08-01  |
