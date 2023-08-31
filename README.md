@@ -14,6 +14,7 @@ The following lecture slides are included as a resource for students, researcher
 
 | Chapter | PDF Slides | Last Modified |
 |---------|------------|---------------|
+| Part 1: Marine Craft Hydrodynamics |
 | 1 - Introduction to Part I | [Ch1.pdf](https://www.dropbox.com/scl/fi/0t35ol7qjkbtq2y2tjtmr/Ch1.pdf?rlkey=733g820vq4vfxdn8pd9zl8xt9&dl=0)| 2023-08-01  |
 | 2 - Kinematics   | [Ch2.pdf](https://www.dropbox.com/scl/fi/i7vlggjiipr8vpp6j1evo/Ch2.pdf?rlkey=w6o0au5nphl3h7y449tziior9&dl=0)| 2023-08-01  |
 | 3 - Rigid-Body Kinetics | [Ch3.pdf](https://www.dropbox.com/scl/fi/szawrpaykezjodki8t3jq/Ch3.pdf?rlkey=54g895sql59x4gssoa7nextir&dl=0)| 2023-08-01  |
