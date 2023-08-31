@@ -11,3 +11,7 @@ ISBN: 978-1-119-57505-4
 ## Lecture Material
 
 The following lecture slides are included as a resource for students, researchers, and instructors. 
+
+| Chapter | PDF Slides | Last Modified |
+|---------|------------|------------|----------|
+| Chapter 1 - Introduction | [chap1.pdf] (XX) |  | 4/4/2022  |
