@@ -1,5 +1,7 @@
 # Handbook of Marine Craft Hydrodynamics and Motion Control
+
 2nd Edition, 2021
+
 ISBN: 978-1-119-57505-4
 
 <img src="./bookcover.jpg" width="100" />
