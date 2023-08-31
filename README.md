@@ -32,6 +32,11 @@ The following lecture slides are included as a resource for students, researcher
 | 14 - Inertial Navigation Systems | [Ch14.pdf](https://www.dropbox.com/scl/fi/68ky3k4is0gahpxi3h010/Ch14.pdf?rlkey=6yq5djch0ycna9h69qz6xh4lz&dl=0)| 2023-08-01  |
 | 15 - Motion Control Systems | [Ch15.pdf](https://www.dropbox.com/scl/fi/cprgdxqm7stse4ax4vhvd/Ch15.pdf?rlkey=2yy1j22adyoi7ziq571kb28ii&dl=0)| 2023-08-01  |
 | 16 - Advanced Motion Control Systems | [Ch16.pdf](https://www.dropbox.com/scl/fi/3ruzu0wg28cpkxzk0a21t/Ch16.pdf?rlkey=782uj1pkucfqtnqk2logm5uxb&dl=0)| 2023-08-01  |
+| Appendices | |
+| A - Nonlinear Stability Theory | |
+| B - Numerical Methods | |
+| C - Model Transformations | |
+| D - Non-dimensional Equations of Motion | |
 
 ## MSS (Marine Systems Simulator)
 
