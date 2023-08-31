@@ -45,5 +45,5 @@ The Python Vehicle Simulator supplements the Matlab MSS (Marine Systems Simulato
 
 URL: https://github.com/cybergalactic/PythonVehicleSimulator
 
-<img src="./src/pythonVehicleSim.png" width="100" />
+<img src="./src/pythonVehicleSim.png" width="1000" />
 
