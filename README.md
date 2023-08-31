@@ -14,4 +14,4 @@ The following lecture slides are included as a resource for students, researcher
 
 | Chapter | PDF Slides | Last Modified |
 |---------|------------|---------------|
-| 1 - Introduction | [Ch1.pdf](https://github.com/cybergalactic/Fossen2021/tree/main/pdf/Ch1.pdf)| 2023-08-01  |
+| 1 - Introduction | [Ch1.pdf](https://www.dropbox.com/scl/fi/0t35ol7qjkbtq2y2tjtmr/Ch1.pdf?rlkey=733g820vq4vfxdn8pd9zl8xt9&dl=0)| 2023-08-01  |
