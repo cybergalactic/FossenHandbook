@@ -46,9 +46,8 @@ URL: https://github.com/cybergalactic/MSS
 
 ## Python Vehicle Simulator
 
+<img src="./src/pythonVehicleSim.png" width="1000"/>
+
 The Python Vehicle Simulator supplements the Matlab MSS (Marine Systems Simulator) toolbox. It includes models for autonomous underwater vehicles (AUVs), unmanned surface vehicles (USVs), and ships. The vehicle models are based on the MSS vessel models in the /MSS/VESSELS/catalog. Each vehicle is modeled as an object in Python, and the vehicle class has methods for guidance, navigation, and control. The main program main.py is used to define vehicle objects for real-time simulation.
 
 URL: https://github.com/cybergalactic/PythonVehicleSimulator
-
-<img src="./src/pythonVehicleSim.png" width="1000" />
-
