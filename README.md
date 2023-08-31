@@ -2,6 +2,7 @@
 
 <img src="./src/bookcover.jpg" width="150" />  
 ISBN: 978-1-119-57505-4 
+
 [Errata.pdf](https://www.dropbox.com/scl/fi/y9p0h9plajkneqhajxfmu/Errata.pdf?rlkey=gxphdojvc67v0xnsxnvx5fz08&dl=0)
 
 [Thor I. Fossen](https://www.ntnu.edu/employees/tif) 
