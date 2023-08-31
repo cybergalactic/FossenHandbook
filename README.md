@@ -2,7 +2,7 @@
 
 ISBN: 978-1-119-57505-4
 
-<img src="./src/bookcover.jpg" width="120" />
+<img src="./src/bookcover.jpg" width="150" />
 
 [Thor I. Fossen](https://www.ntnu.edu/employees/tif) 
 
