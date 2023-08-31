@@ -16,3 +16,10 @@ The following lecture slides are included as a resource for students, researcher
 |---------|------------|---------------|
 | 1 - Introduction | [Ch1.pdf](https://www.dropbox.com/scl/fi/0t35ol7qjkbtq2y2tjtmr/Ch1.pdf?rlkey=733g820vq4vfxdn8pd9zl8xt9&dl=0)| 2023-08-01  |
 | 2 - Kinematics   | [Ch2.pdf](https://www.dropbox.com/scl/fi/i7vlggjiipr8vpp6j1evo/Ch2.pdf?rlkey=w6o0au5nphl3h7y449tziior9&dl=0)| 2023-08-01  |
+
+# MSS (Marine Systems Simulator)
+
+The Marine Systems Simulator (MSS) is a Matlab and Simulink library for marine systems. It includes models for ships, underwater vehicles, unmanned surface vehicles, and floating structures. The library also contains guidance, navigation, and control (GNC) blocks for real-time simulation.  
+
+    T. I. Fossen and T. Perez (2004). Marine Systems Simulator (MSS)
+    URL: https://github.com/cybergalactic/MSS
