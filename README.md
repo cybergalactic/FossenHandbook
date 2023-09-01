@@ -15,7 +15,7 @@ ISBN: 978-1-119-57505-4
 The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Control of Vehicles](https://www.ntnu.edu/studies/courses/TTK4190) at the Norwegian University of Science and Technology. Complementary slides can be downloaded below. 
 
 | | Chapters | PDF Slides | Last Modified |
-|---|---------|------------|---------------|
+| :-: | :--- | :-: | :-: |
 | | Part 1: Marine Craft Hydrodynamics |
 | 1 | Introduction to Part I | [Ch1.pdf](https://www.dropbox.com/scl/fi/0t35ol7qjkbtq2y2tjtmr/Ch1.pdf?rlkey=733g820vq4vfxdn8pd9zl8xt9&dl=0)| 2023-08-08 |
 | 2 | Kinematics   | [Ch2.pdf](https://www.dropbox.com/scl/fi/i7vlggjiipr8vpp6j1evo/Ch2.pdf?rlkey=w6o0au5nphl3h7y449tziior9&dl=0)| 2023-08-09  |
