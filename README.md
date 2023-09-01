@@ -12,7 +12,7 @@ ISBN: 978-1-119-57505-4
 
 ## Lecture Material
 
-The following lecture slides are included as a resource for students, researchers, and instructors. 
+The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Control of Vehicles](https://www.ntnu.edu/studies/courses/TTK4190) at the Norwegian University of Science and Technology. Complementary slides can be downloaded below. 
 
 | Chapter | PDF Slides | Last Modified |
 |---------|------------|---------------|
