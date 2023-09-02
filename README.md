@@ -32,7 +32,7 @@ The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Co
 | 12 | Guidance Systems | [Ch12.pdf](https://www.dropbox.com/scl/fi/mf5ms14t9pp7mfe4qgf6w/Ch12.pdf?rlkey=odw8avz86a02w8tg6wnfmvu79&dl=0)| 2021-06-24 |
 | 13 | Model-Based Navigation Systems | [Ch13.pdf](https://www.dropbox.com/scl/fi/2632cq45s97fdbl8h4ihs/Ch13.pdf?rlkey=s2bpax64cwbdcas6cxxgc79gk&dl=0)| 2022-11-04 |
 | 14 | Inertial Navigation Systems | [Ch14.pdf](https://www.dropbox.com/scl/fi/68ky3k4is0gahpxi3h010/Ch14.pdf?rlkey=6yq5djch0ycna9h69qz6xh4lz&dl=0)| 2023-08-01  |
-| 15 | Motion Control Systems | [Ch15.pdf](https://www.dropbox.com/scl/fi/cprgdxqm7stse4ax4vhvd/Ch15.pdf?rlkey=2yy1j22adyoi7ziq571kb28ii&dl=0)| 2021-06-25 |
+| 15 | Motion Control Systems | [Ch15.pdf](https://www.dropbox.com/scl/fi/cprgdxqm7stse4ax4vhvd/Ch15.pdf?rlkey=2yy1j22adyoi7ziq571kb28ii&dl=0)| 2023-09-02 |
 | 16 | Advanced Motion Control Systems | [Ch16.pdf](https://www.dropbox.com/scl/fi/3ruzu0wg28cpkxzk0a21t/Ch16.pdf?rlkey=782uj1pkucfqtnqk2logm5uxb&dl=0)| 2021-06-25  |
 | | Part III: Appendices |
 | A | Nonlinear Stability Theory | |
