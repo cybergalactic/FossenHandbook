@@ -46,6 +46,8 @@ The Marine Systems Simulator (MSS) is a complementary Matlab and Simulink librar
 
 [github.com/cybergalactic/MSS](https://github.com/cybergalactic/MSS)
 
+<img src="./src/mss.png" width="1000"/>
+
 ## Python Vehicle Simulator
 
 The Python Vehicle Simulator supplements the Matlab MSS (Marine Systems Simulator) toolbox. It includes models for autonomous underwater vehicles (AUVs), unmanned surface vehicles (USVs), and ships. The vehicle models are based on the MSS vessel models in the /MSS/VESSELS/catalog. Each vehicle is modeled as an object in Python, and the vehicle class has methods for guidance, navigation, and control. The main program main.py is used to define vehicle objects for real-time simulation.
