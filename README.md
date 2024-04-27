@@ -42,7 +42,7 @@ The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Co
 
 ## MSS (Marine Systems Simulator)
 
-The Marine Systems Simulator (MSS) is a complementary Matlab and Simulink library for the simulation of marine systems. It includes models for ships, autonomous underwater vehicles (AUVs), unmanned surface vehicles (USVs), and floating structures. The library also contains guidance, navigation, and control (GNC) systems for real-time simulation.  
+The Marine Systems Simulator (MSS) is a complementary Matlab and Simulink library for simulating marine systems. The m-files are compatible with the free software GNU Octave [www.octave.org](https://www.octave.org). MSS includes models for ships, autonomous underwater vehicles (AUVs), unmanned surface vehicles (USVs), and floating structures. The library also contains guidance, navigation, and control (GNC) systems for real-time simulation.  
 
 [github.com/cybergalactic/MSS](https://github.com/cybergalactic/MSS)
 
@@ -50,7 +50,7 @@ The Marine Systems Simulator (MSS) is a complementary Matlab and Simulink librar
 
 ## Python Vehicle Simulator
 
-The Python Vehicle Simulator supplements the Matlab MSS (Marine Systems Simulator) toolbox. It includes models for autonomous underwater vehicles (AUVs), unmanned surface vehicles (USVs), and ships. The vehicle models are based on the MSS vessel models in the /MSS/VESSELS/catalog. Each vehicle is modeled as an object in Python, and the vehicle class has methods for guidance, navigation, and control. The main program main.py is used to define vehicle objects for real-time simulation.
+The Python Vehicle Simulator supplements the Matlab MSS (Marine Systems Simulator) toolbox. It includes models for autonomous underwater vehicles (AUVs), unmanned surface vehicles (USVs), and ships. The vehicle models are based on the MSS vessel models in the /MSS/VESSELS/catalog. Each vehicle is modeled as an object in Python, and the vehicle class has methods for guidance, navigation, and control. The main program main.py defines vehicle objects for real-time simulation.
 
 [github.com/cybergalactic/PythonVehicleSimulator](https://github.com/cybergalactic/PythonVehicleSimulator)
 
