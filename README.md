@@ -19,7 +19,7 @@ The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Co
 | | Part 1: Marine Craft Hydrodynamics |
 | 1 | Introduction to Part I | [Ch1.pdf](https://www.dropbox.com/scl/fi/0t35ol7qjkbtq2y2tjtmr/Ch1.pdf?rlkey=733g820vq4vfxdn8pd9zl8xt9&dl=0)| 2024-06-17 |
 | 2 | Kinematics   | [Ch2.pdf](https://www.dropbox.com/scl/fi/i7vlggjiipr8vpp6j1evo/Ch2.pdf?rlkey=w6o0au5nphl3h7y449tziior9&dl=0)| 2024-06-17  |
-| 3 | Rigid-Body Kinetics | [Ch3.pdf](https://www.dropbox.com/scl/fi/szawrpaykezjodki8t3jq/Ch3.pdf?rlkey=54g895sql59x4gssoa7nextir&dl=0)| 2023-08-09  |
+| 3 | Rigid-Body Kinetics | [Ch3.pdf](https://www.dropbox.com/scl/fi/szawrpaykezjodki8t3jq/Ch3.pdf?rlkey=54g895sql59x4gssoa7nextir&dl=0)| 2024-06-17  |
 | 4 | Hydrostatics | [Ch4.pdf](https://www.dropbox.com/scl/fi/td0dwv4cgjxmvdg8dhtg9/Ch4.pdf?rlkey=fcbxt5sa0kh826jk783tb7mqt&dl=0)| 2023-08-01  |
 | 5 | Seakeeping Models | [Ch5.pdf](https://www.dropbox.com/scl/fi/7yuix37gbad59qma3hi1x/Ch5.pdf?rlkey=zi16uwq78d418v03lh1mdtfb9&dl=0)| 2023-08-10  |
 | 6 | Maneuvering Models | [Ch6.pdf](https://www.dropbox.com/scl/fi/f2ipl6gxs9a826b6i06dw/Ch6.pdf?rlkey=utqhkxv7y353rittx1dnte0fo&dl=0)| 2023-08-10  |
