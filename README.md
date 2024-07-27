@@ -22,7 +22,7 @@ The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Co
 | 3 | Rigid-Body Kinetics | [Ch3.pdf](https://www.dropbox.com/scl/fi/szawrpaykezjodki8t3jq/Ch3.pdf?rlkey=54g895sql59x4gssoa7nextir&dl=0)| 2024-06-17  |
 | 4 | Hydrostatics | [Ch4.pdf](https://www.dropbox.com/scl/fi/td0dwv4cgjxmvdg8dhtg9/Ch4.pdf?rlkey=fcbxt5sa0kh826jk783tb7mqt&dl=0)| 2024-06-21  |
 | 5 | Seakeeping Models | [Ch5.pdf](https://www.dropbox.com/scl/fi/7yuix37gbad59qma3hi1x/Ch5.pdf?rlkey=zi16uwq78d418v03lh1mdtfb9&dl=0)| 2023-08-10  |
-| 6 | Maneuvering Models | [Ch6.pdf](https://www.dropbox.com/scl/fi/f2ipl6gxs9a826b6i06dw/Ch6.pdf?rlkey=utqhkxv7y353rittx1dnte0fo&dl=0)| 2023-08-10  |
+| 6 | Maneuvering Models | [Ch6.pdf](https://www.dropbox.com/scl/fi/f2ipl6gxs9a826b6i06dw/Ch6.pdf?rlkey=utqhkxv7y353rittx1dnte0fo&dl=0)| 2024-07-27  |
 | 7 | Autopilot Models for Course and Heading Control | [Ch7.pdf](https://www.dropbox.com/scl/fi/rth0nv12xsrf0ar8bsbwv/Ch7.pdf?rlkey=bjpndrhdfuxzc8281fx3n2hk8&dl=0)| 2023-08-10 |
 | 8 | Models for Underwater Vehicles | [Ch8.pdf](https://www.dropbox.com/scl/fi/r3ppxw8sbfy16uy0bts0f/Ch8.pdf?rlkey=uyz1kqiz10b07qg000s0jfp4f&dl=0)| 2023-08-15  |
 | 9 | Control Forces and Moments | [Ch9.pdf](https://www.dropbox.com/scl/fi/ftobpq8i6ossgdfuvada0/Ch9.pdf?rlkey=yzuft1ocixxtiol9nuwohxip3&dl=0)| 2023-03-29 |
