@@ -26,7 +26,7 @@ The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Co
 | 7 | Autopilot Models for Course and Heading Control | [Ch7.pdf](book_chapters/Ch7.pdf)| 2023-08-10 |
 | 8 | Models for Underwater Vehicles | [Ch8.pdf](book_chapters/Ch8.pdf)| 2023-08-15  |
 | 9 | Control Forces and Moments | [Ch9.pdf](book_chapters/Ch9.pdf)| 2023-03-29 |
-| 10 | Environmental Forces and Moments | [Ch10.pdf](book_chapters/Ch10.pdf)| 2022-06-18 |
+| 10 | Environmental Forces and Moments | [Ch10.pdf](book_chapters/Ch10.pdf)| 2024-08-18 |
 | | Part 2: Motion Control Systems |
 | 11 | Introduction to Part II | [Ch11.pdf](book_chapters/Ch11.pdf)| 2021-05-20 |
 | 12 | Guidance Systems | [Ch12.pdf](book_chapters/Ch12.pdf)| 2023-10-27 |
