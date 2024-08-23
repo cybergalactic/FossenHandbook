@@ -17,23 +17,23 @@ The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Co
 | | Chapters | PDF Slides | Last Modified |
 | :-: | :--- | :-: | :-: |
 | | Part 1: Marine Craft Hydrodynamics |
-| 1 | Introduction to Part I | [Ch1.pdf](book_chapters/Ch1.pdf)| 2024-06-17 |
-| 2 | Kinematics   | [Ch2.pdf](book_chapters/Ch2.pdf)| 2024-06-17  |
-| 3 | Rigid-Body Kinetics | [Ch3.pdf](book_chapters/Ch3.pdf)| 2024-06-17  |
-| 4 | Hydrostatics | [Ch4.pdf](book_chapters/Ch4.pdf)| 2024-06-21  |
-| 5 | Seakeeping Models | [Ch5.pdf](book_chapters/Ch5.pdf)| 2023-08-10  |
-| 6 | Maneuvering Models | [Ch6.pdf](book_chapters/Ch6.pdf)| 2024-07-27  |
-| 7 | Autopilot Models for Course and Heading Control | [Ch7.pdf](book_chapters/Ch7.pdf)| 2023-08-10 |
-| 8 | Models for Underwater Vehicles | [Ch8.pdf](book_chapters/Ch8.pdf)| 2023-08-15  |
-| 9 | Control Forces and Moments | [Ch9.pdf](book_chapters/Ch9.pdf)| 2023-03-29 |
-| 10 | Environmental Forces and Moments | [Ch10.pdf](book_chapters/Ch10.pdf)| 2024-08-18 |
+| 1 | Introduction to Part I | [Ch1.pdf](https://www.dropbox.com/scl/fi/0t35ol7qjkbtq2y2tjtmr/Ch1.pdf?rlkey=733g820vq4vfxdn8pd9zl8xt9&st=utg86coe&dl=0)| 2024-06-17 |
+| 2 | Kinematics   | [Ch2.pdf](https://www.dropbox.com/scl/fi/i7vlggjiipr8vpp6j1evo/Ch2.pdf?rlkey=w6o0au5nphl3h7y449tziior9&st=c7j8uv2v&dl=0)| 2024-06-17  |
+| 3 | Rigid-Body Kinetics | [Ch3.pdf](https://www.dropbox.com/scl/fi/szawrpaykezjodki8t3jq/Ch3.pdf?rlkey=54g895sql59x4gssoa7nextir&st=9h7w9hgl&dl=0)| 2024-06-17  |
+| 4 | Hydrostatics | [Ch4.pdf](https://www.dropbox.com/scl/fi/td0dwv4cgjxmvdg8dhtg9/Ch4.pdf?rlkey=fcbxt5sa0kh826jk783tb7mqt&st=lr1h1hhi&dl=0)| 2024-06-21  |
+| 5 | Seakeeping Models | [Ch5.pdf](https://www.dropbox.com/scl/fi/7yuix37gbad59qma3hi1x/Ch5.pdf?rlkey=zi16uwq78d418v03lh1mdtfb9&st=ss2ajr15&dl=0| 2023-08-10  |
+| 6 | Maneuvering Models | [Ch6.pdf](https://www.dropbox.com/scl/fi/f2ipl6gxs9a826b6i06dw/Ch6.pdf?rlkey=utqhkxv7y353rittx1dnte0fo&st=x7b1g7an&dl=0)| 2024-07-27  |
+| 7 | Autopilot Models for Course and Heading Control | [Ch7.pdf](https://www.dropbox.com/scl/fi/rth0nv12xsrf0ar8bsbwv/Ch7.pdf?rlkey=bjpndrhdfuxzc8281fx3n2hk8&st=jxjk6rgw&dl=0)| 2023-08-10 |
+| 8 | Models for Underwater Vehicles | [Ch8.pdf](https://www.dropbox.com/scl/fi/r3ppxw8sbfy16uy0bts0f/Ch8.pdf?rlkey=uyz1kqiz10b07qg000s0jfp4f&st=niy6fqfs&dl=0)| 2023-08-15  |
+| 9 | Control Forces and Moments | [Ch9.pdf](https://www.dropbox.com/scl/fi/ftobpq8i6ossgdfuvada0/Ch9.pdf?rlkey=yzuft1ocixxtiol9nuwohxip3&st=thd71yvf&dl=0)| 2023-03-29 |
+| 10 | Environmental Forces and Moments | [Ch10.pdf](https://www.dropbox.com/scl/fi/1hdy5puq6p0nzkd4bivtg/Ch10.pdf?rlkey=ro2t6otv1qfn6qg20oi0nxapr&st=m3hvfu5i&dl=0)| 2024-08-18 |
 | | Part 2: Motion Control Systems |
-| 11 | Introduction to Part II | [Ch11.pdf](book_chapters/Ch11.pdf)| 2021-05-20 |
-| 12 | Guidance Systems | [Ch12.pdf](book_chapters/Ch12.pdf)| 2023-10-27 |
-| 13 | Model-Based Navigation Systems | [Ch13.pdf](book_chapters/Ch13.pdf)| 2022-11-04 |
-| 14 | Inertial Navigation Systems | [Ch14.pdf](book_chapters/Ch14.pdf)| 2023-08-01  |
-| 15 | Motion Control Systems | [Ch15.pdf](book_chapters/Ch15.pdf)| 2023-09-02 |
-| 16 | Advanced Motion Control Systems | [Ch16.pdf](book_chapters/Ch16.pdf)| 2021-06-25  |
+| 11 | Introduction to Part II | [Ch11.pdf](https://www.dropbox.com/scl/fi/sryr1340ilvjv9dpfs62t/Ch11.pdf?rlkey=grlws4qw8edl69s38dqivqfkp&st=n5xtzxae&dl=0)| 2021-05-20 |
+| 12 | Guidance Systems | [Ch12.pdf](https://www.dropbox.com/scl/fi/mf5ms14t9pp7mfe4qgf6w/Ch12.pdf?rlkey=odw8avz86a02w8tg6wnfmvu79&st=ov6yn0ap&dl=0)| 2023-10-27 |
+| 13 | Model-Based Navigation Systems | [Ch13.pdf](https://www.dropbox.com/scl/fi/2632cq45s97fdbl8h4ihs/Ch13.pdf?rlkey=s2bpax64cwbdcas6cxxgc79gk&st=fd6rhjjx&dl=0)| 2022-11-04 |
+| 14 | Inertial Navigation Systems | [Ch14.pdf](https://www.dropbox.com/scl/fi/68ky3k4is0gahpxi3h010/Ch14.pdf?rlkey=6yq5djch0ycna9h69qz6xh4lz&st=vp81rsh2&dl=0)| 2023-08-01  |
+| 15 | Motion Control Systems | [Ch15.pdf](https://www.dropbox.com/scl/fi/cprgdxqm7stse4ax4vhvd/Ch15.pdf?rlkey=2yy1j22adyoi7ziq571kb28ii&st=tiaw7p6u&dl=0)| 2023-09-02 |
+| 16 | Advanced Motion Control Systems | [Ch16.pdf](https://www.dropbox.com/scl/fi/3ruzu0wg28cpkxzk0a21t/Ch16.pdf?rlkey=782uj1pkucfqtnqk2logm5uxb&st=zhr91drl&dl=0)| 2021-06-25  |
 | | Part III: Appendices |
 | A | Nonlinear Stability Theory | |
 | B | Numerical Methods | |
