@@ -31,7 +31,7 @@ The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Co
 | 11 | Introduction to Part II | [Ch11.pdf](https://drive.google.com/file/d/1mGOzvXt71maqWyTrirQ4gT6f9GqimAQr/view?usp=share_link)| 2021-05-20 |
 | 12 | Guidance Systems | [Ch12.pdf](https://drive.google.com/file/d/1Uu6oIi5z7BsdgJAWwley5R3NYVpR2TDj/view?usp=share_link)| 2023-10-27 |
 | 13 | Model-Based Navigation Systems | [Ch13.pdf](https://drive.google.com/file/d/1K1RxgbNbvrErOX3CBtbcIcriACYm9Sm6/view?usp=share_link)| 2022-11-04 |
-| 14 | Inertial Navigation Systems | [Ch14.pdf](https://drive.google.com/file/d/1LHAv-VZuD6NGFWcSMqPMCADnhAOH1oH2/view?usp=share_link)| 2023-08-01  |
+| 14 | Inertial Navigation Systems | [Ch14.pdf](https://drive.google.com/file/d/1LHAv-VZuD6NGFWcSMqPMCADnhAOH1oH2/view?usp=share_link)| 2024-09-14  |
 | 15 | Motion Control Systems | [Ch15.pdf](https://drive.google.com/file/d/1bJlyDYg5Le1PTa_0voSzYAO00ayzu9TA/view?usp=share_link)| 2023-09-02 |
 | 16 | Advanced Motion Control Systems | [Ch16.pdf](https://drive.google.com/file/d/1QepdGD2JdRnh8tlzRaXnrugr78LAoxQz/view?usp=share_link)| 2021-06-25  |
 | | Part III: Appendices |
