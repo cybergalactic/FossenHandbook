@@ -17,7 +17,7 @@ The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Co
 | | Chapters | PDF Slides | Last Modified |
 | :-: | :--- | :-: | :-: |
 | | Part 1: Marine Craft Hydrodynamics |
-| 1 | Introduction to Part I | [Ch1.pdf](https://drive.google.com/file/d/1uZJrq_ck6G7QlWZ_sZKGTRk6f0qsj5Kd/view?usp=share_link)| 2024-06-17 |
+| 1 | Introduction to Part I | [Ch1.pdf]([https://drive.google.com/file/d/1uZJrq_ck6G7QlWZ_sZKGTRk6f0qsj5Kd/view?usp=share_link](https://drive.google.com/open?id=14XA52esMi-9dErfZZTMIzRCcOo4w-2UI&usp=drive_fs))| 2025-07-02 |
 | 2 | Kinematics   | [Ch2.pdf](https://drive.google.com/file/d/1-15hMYlpIjzEqU04iUxEgYOH2wwJyfu6/view?usp=sharing)| 2024-06-17  |
 | 3 | Rigid-Body Kinetics | [Ch3.pdf](https://drive.google.com/file/d/1wotr1lNTAm2SZWLjQokCBDV7yhCnJZ4O/view?usp=share_link)| 2024-06-17  |
 | 4 | Hydrostatics | [Ch4.pdf](https://drive.google.com/file/d/1kLHHyKh24CL26xtenK1__oj9SiF27NcB/view?usp=share_link)| 2024-06-21  |
