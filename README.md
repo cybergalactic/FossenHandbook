@@ -21,7 +21,7 @@ The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Co
 | 2 | Kinematics   | [Ch2.pdf](https://www.dropbox.com/scl/fi/i7vlggjiipr8vpp6j1evo/Ch2.pdf?rlkey=w6o0au5nphl3h7y449tziior9&dl=0)| 2025-17-02  |
 | 3 | Rigid-Body Kinetics | [Ch3.pdf](https://www.dropbox.com/scl/fi/szawrpaykezjodki8t3jq/Ch3.pdf?rlkey=54g895sql59x4gssoa7nextir&dl=0)| 2025-17-02  |
 | 4 | Hydrostatics | [Ch4.pdf](https://www.dropbox.com/scl/fi/td0dwv4cgjxmvdg8dhtg9/Ch4.pdf?rlkey=fcbxt5sa0kh826jk783tb7mqt&dl=0)| 2025-07-31  |
-| 5 | Seakeeping Models | [Ch5.pdf](https://drive.google.com/file/d/1YCNy55BSbOfS7p2i-ruJqtLj0LZY-AVK/view?usp=share_link)| 2024-09-25  |
+| 5 | Seakeeping Models | [Ch5.pdf](https://www.dropbox.com/scl/fi/7yuix37gbad59qma3hi1x/Ch5.pdf?rlkey=zi16uwq78d418v03lh1mdtfb9&dl=0)| 2025-07-31  |
 | 6 | Maneuvering Models | [Ch6.pdf](https://drive.google.com/file/d/167JjVbIYJBkTgB2fl0yMtlm28ibylesV/view?usp=share_link)| 2024-07-27  |
 | 7 | Autopilot Models for Course and Heading Control | [Ch7.pdf](https://drive.google.com/file/d/1UZa3gBLQ4GxB1ur2xoWM9XRy6u6VRXOU/view?usp=share_link)| 2023-08-10 |
 | 8 | Models for Underwater Vehicles | [Ch8.pdf](https://drive.google.com/file/d/1NEemmPazyFELrvziXi31iQZea1xYBPg9/view?usp=share_link)| 2023-08-15  |
