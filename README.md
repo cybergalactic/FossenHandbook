@@ -23,7 +23,7 @@ The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Co
 | 4 | Hydrostatics | [Ch4.pdf](https://www.dropbox.com/scl/fi/td0dwv4cgjxmvdg8dhtg9/Ch4.pdf?rlkey=fcbxt5sa0kh826jk783tb7mqt&dl=0)| 2025-07-31  |
 | 5 | Seakeeping Models | [Ch5.pdf](https://www.dropbox.com/scl/fi/7yuix37gbad59qma3hi1x/Ch5.pdf?rlkey=zi16uwq78d418v03lh1mdtfb9&dl=0)| 2025-09-09  |
 | 6 | Maneuvering Models | [Ch6.pdf](https://www.dropbox.com/scl/fi/f2ipl6gxs9a826b6i06dw/Ch6.pdf?rlkey=utqhkxv7y353rittx1dnte0fo&dl=0)| 2025-09-09  |
-| 7 | Autopilot Models for Course and Heading Control | [Ch7.pdf](https://drive.google.com/file/d/1UZa3gBLQ4GxB1ur2xoWM9XRy6u6VRXOU/view?usp=share_link)| 2023-08-10 |
+| 7 | Autopilot Models for Course and Heading Control | [Ch7.pdf](https://www.dropbox.com/scl/fi/rth0nv12xsrf0ar8bsbwv/Ch7.pdf?rlkey=bjpndrhdfuxzc8281fx3n2hk8&dl=0)| 2025-09-09 |
 | 8 | Models for Underwater Vehicles | [Ch8.pdf](https://drive.google.com/file/d/1NEemmPazyFELrvziXi31iQZea1xYBPg9/view?usp=share_link)| 2023-08-15  |
 | 9 | Control Forces and Moments | [Ch9.pdf](https://drive.google.com/file/d/11A74KPYcGeAzU2rVSkWgHbi9CvvBesRa/view?usp=share_link)| 2023-03-29 |
 | 10 | Environmental Forces and Moments | [Ch10.pdf](https://drive.google.com/open?id=1-Dk0AE7UrPKBOPdeKazJSIPymbp8x6cR&usp=drive_fs)| 2024-08-18 |
