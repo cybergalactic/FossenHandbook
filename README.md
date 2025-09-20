@@ -29,7 +29,7 @@ The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Co
 | 10 | Environmental Forces and Moments | [Ch10.pdf](https://drive.google.com/open?id=1-Dk0AE7UrPKBOPdeKazJSIPymbp8x6cR&usp=drive_fs)| 2024-08-18 |
 | | Part 2: Motion Control Systems |
 | 11 | Introduction to Part II | [Ch11.pdf](https://drive.google.com/open?id=1-LP91GO-iTmitFp_W1XBDCXMOUsxiDLS&usp=drive_fs)| 2024-10-07 |
-| 12 | Guidance Systems | [Ch12.pdf](https://drive.google.com/file/d/1Uu6oIi5z7BsdgJAWwley5R3NYVpR2TDj/view?usp=share_link)| 2023-10-27 |
+| 12 | Guidance Systems | [Ch12.pdf](https://www.dropbox.com/scl/fi/mf5ms14t9pp7mfe4qgf6w/Ch12.pdf?rlkey=odw8avz86a02w8tg6wnfmvu79&dl=0)| 2025-09-20 |
 | 13 | Model-Based Navigation Systems | [Ch13.pdf](https://drive.google.com/file/d/1K1RxgbNbvrErOX3CBtbcIcriACYm9Sm6/view?usp=share_link)| 2022-11-04 |
 | 14 | Inertial Navigation Systems | [Ch14.pdf](https://drive.google.com/file/d/1LHAv-VZuD6NGFWcSMqPMCADnhAOH1oH2/view?usp=share_link)| 2024-09-14  |
 | 15 | Motion Control Systems | [Ch15.pdf](https://drive.google.com/file/d/1bJlyDYg5Le1PTa_0voSzYAO00ayzu9TA/view?usp=share_link)| 2023-09-02 |
