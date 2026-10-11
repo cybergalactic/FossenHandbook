@@ -1,6 +1,6 @@
 # Handbook of Marine Craft Hydrodynamics and Motion Control
 
-The "Handbook of Marine Craft Hydrodynamics and Motion Control" comprehensively explores cutting-edge developments in marine craft hydrodynamics and guidance, navigation, and control (GNC) systems. The text establishes how mathematical models and modern control theory can be implemented to simulate and verify control systems. 
+The "Handbook of Marine Craft Hydrodynamics and Motion Control" provides a comprehensive treatment of marine craft hydrodynamics and guidance, navigation, and control (GNC) systems for ships, autonomous underwater vehicles (AUVs), and unmanned surface vehicles (USVs). The book shows how mathematical models, hydrodynamic methods, estimation techniques, guidance algorithms, and modern control theory can be used to design, simulate, and verify marine control systems.
 
 <img src="./src/bookcover.jpg" width="170" />  &nbsp;&nbsp;&nbsp;  [Errata.pdf](https://www.dropbox.com/scl/fi/s6icfdbt9hoqkke4ea3vt/Errata.pdf?rlkey=tu10g93tkcmgpwqtmxgr8s580&st=qpstuvu0&dl=0)
 
@@ -9,6 +9,8 @@ ISBN: 978-1-119-57505-4
 [Thor I. Fossen](https://www.ntnu.edu/employees/tif)
 
 [John Wiley & Sons Ltd., 2nd Edition, April 2021](https://www.wiley.com/en-in/Handbook+of+Marine+Craft+Hydrodynamics+and+Motion+Control%2C+2nd+Edition-p-9781119575030)
+
+John Wiley & Sons will publish the 3rd edition in 2027.
 
 ## Lecture Material
 
