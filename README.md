@@ -61,7 +61,7 @@ You can use the generated hydrodynamic data in MSS for seakeeping analysis, resp
 
 ## Python Vehicle Simulator
 
-The Python Vehicle Simulator complements the MATLAB MSS Toolbox and provides Python implementations of marine craft models for simulation and control. It includes models for Autonomous Underwater Vehicles (AUVs), Uncrewed Surface Vehicles (USVs), and ships.
+The Python Vehicle Simulator complements the MATLAB MSS Toolbox and provides Python implementations of marine craft models for simulation and control. It includes models for AUVs, USVs, and ships.
 
 The vehicle models are based on corresponding MSS marine craft models. Each vehicle is implemented as a Python object with methods for vehicle dynamics and guidance, navigation, and control. The main program `main.py` provides an interactive framework for selecting vehicle models and running real-time simulations.
 
