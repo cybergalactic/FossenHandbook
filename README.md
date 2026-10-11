@@ -45,15 +45,25 @@ The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Co
 
 ## MSS (Marine Systems Simulator)
 
-The Marine Systems Simulator (MSS) is a complementary Matlab and Simulink library for simulating marine systems. The m-files are compatible with the free software GNU Octave [www.octave.org](https://www.octave.org). MSS includes models for ships, Autonomous Underwater Vehicles (AUVs), Uncrewed Surface Vehicles (USVs), and floating structures. The library also contains guidance, navigation, and control (GNC) systems for time-domain simulation.  
+The Marine Systems Simulator (MSS) Toolbox is a complementary MATLAB library for modeling, simulation, and control of marine craft. The MATLAB m-files are also compatible with the free software [GNU Octave](https://www.octave.org).
+
+MSS includes mathematical models for ships, AUVs, USVs, and floating structures. The toolbox also provides GNC algorithms, hydrodynamic models, environmental-force models, and time-domain simulation tools.
 
 [github.com/cybergalactic/MSS](https://github.com/cybergalactic/MSS)
 
-<img src="./src/mss.png" width="1000"/>
+## MSS-Capytaine
+
+MSS-Capytaine is an add-on that connects the open-source hydrodynamics software Capytaine with the MSS Toolbox. It provides tools to compute frequency-dependent hydrodynamic coefficients and wave-excitation forces using potential-flow theory, and to export the results directly to the MSS vessel-data format.
+
+You can use the generated hydrodynamic data in MSS for seakeeping analysis, response-amplitude operators (RAOs), and time-domain simulation, using frequency-dependent or equivalent constant hydrodynamic models (power-based averaging).
+
+[github.com/cybergalactic/MSS-Capytaine](https://github.com/cybergalactic/MSS-Capytaine)
 
 ## Python Vehicle Simulator
 
-The Python Vehicle Simulator supplements the Matlab MSS (Marine Systems Simulator) toolbox. It includes models for Autonomous Underwater Vehicles (AUVs), Uncrewed Surface Vehicles (USVs), and ships. The vehicle models are based on the MSS marine craft models in the /MSS/VESSELS/ catalog. Each vehicle is modeled as an object in Python, and the vehicle class has methods for guidance, navigation, and control. The main program 'main.py' defines vehicle objects for real-time simulation.
+The Python Vehicle Simulator complements the MATLAB MSS Toolbox and provides Python implementations of marine craft models for simulation and control. It includes models for Autonomous Underwater Vehicles (AUVs), Uncrewed Surface Vehicles (USVs), and ships.
+
+The vehicle models are based on corresponding MSS marine craft models. Each vehicle is implemented as a Python object with methods for vehicle dynamics and guidance, navigation, and control. The main program `main.py` provides an interactive framework for selecting vehicle models and running real-time simulations.
 
 [github.com/cybergalactic/PythonVehicleSimulator](https://github.com/cybergalactic/PythonVehicleSimulator)
 
