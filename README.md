@@ -37,7 +37,7 @@ The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Co
 |  14 | Inertial Navigation Systems                     |   2nd   | [Ch14.pdf](https://www.dropbox.com/scl/fi/68ky3k4is0gahpxi3h010/Ch14.pdf?rlkey=6yq5djch0ycna9h69qz6xh4lz\&dl=0) |   2025-10-12  |
 |  15 | Motion Control Systems                          |   2nd   |        [Ch15.pdf](https://drive.google.com/file/d/1bJlyDYg5Le1PTa_0voSzYAO00ayzu9TA/view?usp=share_link)        |   2023-09-02  |
 |  16 | Advanced Motion Control Systems                 |   2nd   |        [Ch16.pdf](https://drive.google.com/file/d/1QepdGD2JdRnh8tlzRaXnrugr78LAoxQz/view?usp=share_link)        |   2021-06-25  |
-|     | Part III: Appendices                            |         |                                                                                                                 |               |
+|     | Part 3: Appendices                            |         |                                                                                                                 |               |
 |  A  | Nonlinear Stability Theory                      |   2nd   |                                                                                                                 |               |
 |  B  | Numerical Methods                               |   2nd   |                                                                                                                 |               |
 |  C  | Model Transformations                           |   2nd   |                                                                                                                 |               |
