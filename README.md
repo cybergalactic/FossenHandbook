@@ -2,12 +2,12 @@
 
 The "Handbook of Marine Craft Hydrodynamics and Motion Control" provides a comprehensive treatment of marine craft hydrodynamics and guidance, navigation, and control (GNC) systems for ships, autonomous underwater vehicles (AUVs), and unmanned surface vehicles (USVs). The book shows how mathematical models, hydrodynamic methods, estimation techniques, guidance algorithms, and modern control theory can be used to design, simulate, and verify marine control systems. 
 
-The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Control of Marine Craft and Drones](https://www.ntnu.edu/studies/courses/TTK4190) at the Norwegian University of Science and Technology.
+The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Control of Marine Craft and Drones](https://www.ntnu.edu/studies/courses/TTK4190) at the Norwegian University of Science and Technology (NTNU).
 
 
 | Book Cover | Publication Information |
 |:---:|:---|
-| <img src="./src/bookcover.jpg" width="170" /> | [Errata.pdf](https://www.dropbox.com/scl/fi/s6icfdbt9hoqkke4ea3vt/Errata.pdf?rlkey=tu10g93tkcmgpwqtmxgr8s580&st=qpstuvu0&dl=0)<br><br>ISBN: 978-1-119-57505-4<br><br>[Thor I. Fossen](https://www.ntnu.edu/employees/tif)<br><br>[John Wiley & Sons Ltd., 2nd Edition, April 2021](https://www.wiley.com/en-in/Handbook+of+Marine+Craft+Hydrodynamics+and+Motion+Control%2C+2nd+Edition-p-9781119575030)<br><br>$\color{red}{\textsf{John Wiley and Sons will publish the 3rd edition in 2027.}}$ |
+| <img src="./src/bookcover.jpg" width="170" /> | [Errata.pdf](https://www.dropbox.com/scl/fi/s6icfdbt9hoqkke4ea3vt/Errata.pdf?rlkey=tu10g93tkcmgpwqtmxgr8s580&st=qpstuvu0&dl=0)<br><br>ISBN: 978-1-119-57505-4<br><br>[Thor I. Fossen](https://www.ntnu.edu/employees/tif)<br><br>[John Wiley & Sons Ltd., 2nd Edition, April 2021](https://www.wiley.com/en-in/Handbook+of+Marine+Craft+Hydrodynamics+and+Motion+Control%2C+2nd+Edition-p-9781119575030)<br><br>$\color{red}{\textsf{John Wiley and Sons will publish the 3rd edition in 2027}}$ |
 
 
 ## Lecture Slides
