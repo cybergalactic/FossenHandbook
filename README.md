@@ -1,6 +1,8 @@
 # Handbook of Marine Craft Hydrodynamics and Motion Control
 
-The "Handbook of Marine Craft Hydrodynamics and Motion Control" provides a comprehensive treatment of marine craft hydrodynamics and guidance, navigation, and control (GNC) systems for ships, autonomous underwater vehicles (AUVs), and unmanned surface vehicles (USVs). The book shows how mathematical models, hydrodynamic methods, estimation techniques, guidance algorithms, and modern control theory can be used to design, simulate, and verify marine control systems.
+The "Handbook of Marine Craft Hydrodynamics and Motion Control" provides a comprehensive treatment of marine craft hydrodynamics and guidance, navigation, and control (GNC) systems for ships, autonomous underwater vehicles (AUVs), and unmanned surface vehicles (USVs). The book shows how mathematical models, hydrodynamic methods, estimation techniques, guidance algorithms, and modern control theory can be used to design, simulate, and verify marine control systems. 
+
+The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Control of Marine Craft and Drones](https://www.ntnu.edu/studies/courses/TTK4190) at the Norwegian University of Science and Technology.
 
 <img src="./src/bookcover.jpg" width="170" />  &nbsp;&nbsp;&nbsp;  [Errata.pdf](https://www.dropbox.com/scl/fi/s6icfdbt9hoqkke4ea3vt/Errata.pdf?rlkey=tu10g93tkcmgpwqtmxgr8s580&st=qpstuvu0&dl=0)
 
@@ -12,59 +14,55 @@ ISBN: 978-1-119-57505-4
 
 John Wiley & Sons will publish the 3rd edition in 2027.
 
-## Lecture Material
-
-The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Control of Marine Craft and Drones](https://www.ntnu.edu/studies/courses/TTK4190) at the Norwegian University of Science and Technology. Complementary slides can be downloaded below. 
-
+## Lecture Slides
 
 |     | Chapters                                        | Edition |                                                    PDF Slides                                                   | Last Modified |
 | :-: | :---------------------------------------------- | :-----: | :-------------------------------------------------------------------------------------------------------------: | :-----------: |
 |     | Part 1: Marine Craft Hydrodynamics              |         |                                                                                                                 |               |
-|  1  | Introduction to Part I                          |   3rd   |  [Ch1.pdf](https://www.dropbox.com/scl/fi/0t35ol7qjkbtq2y2tjtmr/Ch1.pdf?rlkey=733g820vq4vfxdn8pd9zl8xt9\&dl=0)  |   2026-11-15  |
-|  2  | Kinematics                                      |   3rd   |  [Ch2.pdf](https://www.dropbox.com/scl/fi/i7vlggjiipr8vpp6j1evo/Ch2.pdf?rlkey=w6o0au5nphl3h7y449tziior9\&dl=0)  |   2026-11-16  |
-|  3  | Rigid-Body Kinetics                             |   3rd   |  [Ch3.pdf](https://www.dropbox.com/scl/fi/szawrpaykezjodki8t3jq/Ch3.pdf?rlkey=54g895sql59x4gssoa7nextir\&dl=0)  |   2026-11-17  |
-|  4  | Hydrostatics                                    |   3rd   |  [Ch4.pdf](https://www.dropbox.com/scl/fi/td0dwv4cgjxmvdg8dhtg9/Ch4.pdf?rlkey=fcbxt5sa0kh826jk783tb7mqt\&dl=0)  |   2026-11-20  |
-|  5  | Seakeeping Models for Ships and USVs            |   3rd   |  [Ch5.pdf](https://www.dropbox.com/scl/fi/7yuix37gbad59qma3hi1x/Ch5.pdf?rlkey=zi16uwq78d418v03lh1mdtfb9\&dl=0)  |   2026-11-22  |
-|  6  | Maneuvering Models for Ships and USVs           |   3rd   |  [Ch6.pdf](https://www.dropbox.com/scl/fi/f2ipl6gxs9a826b6i06dw/Ch6.pdf?rlkey=utqhkxv7y353rittx1dnte0fo\&dl=0)  |   2026-08-27  |
-|  7  | Autopilot Models for Course and Heading Control |   2nd   |  [Ch7.pdf](https://www.dropbox.com/scl/fi/rth0nv12xsrf0ar8bsbwv/Ch7.pdf?rlkey=bjpndrhdfuxzc8281fx3n2hk8\&dl=0)  |   2025-09-09  |
-|  8  | Models for Underwater Vehicles                  |   2nd   |         [Ch8.pdf](https://drive.google.com/file/d/1NEemmPazyFELrvziXi31iQZea1xYBPg9/view?usp=share_link)        |   2023-08-15  |
-|  9  | Control Forces and Moments                      |   2nd   |         [Ch9.pdf](https://drive.google.com/file/d/11A74KPYcGeAzU2rVSkWgHbi9CvvBesRa/view?usp=share_link)        |   2023-03-29  |
-|  10 | Environmental Forces and Moments                |   2nd   |           [Ch10.pdf](https://drive.google.com/open?id=1-Dk0AE7UrPKBOPdeKazJSIPymbp8x6cR\&usp=drive_fs)          |   2024-08-18  |
+|  1  | Introduction to Part I                          |   3rd   |  [PDF](https://www.dropbox.com/scl/fi/0t35ol7qjkbtq2y2tjtmr/Ch1.pdf?rlkey=733g820vq4vfxdn8pd9zl8xt9\&dl=0)  |   2026-11-15  |
+|  2  | Kinematics                                      |   3rd   |  [PDF](https://www.dropbox.com/scl/fi/i7vlggjiipr8vpp6j1evo/Ch2.pdf?rlkey=w6o0au5nphl3h7y449tziior9\&dl=0)  |   2026-11-16  |
+|  3  | Rigid-Body Kinetics                             |   3rd   |  [PDF](https://www.dropbox.com/scl/fi/szawrpaykezjodki8t3jq/Ch3.pdf?rlkey=54g895sql59x4gssoa7nextir\&dl=0)  |   2026-11-17  |
+|  4  | Hydrostatics                                    |   3rd   |  [PDF](https://www.dropbox.com/scl/fi/td0dwv4cgjxmvdg8dhtg9/Ch4.pdf?rlkey=fcbxt5sa0kh826jk783tb7mqt\&dl=0)  |   2026-11-20  |
+|  5  | Seakeeping Models for Ships and USVs            |   3rd   |  [PDF](https://www.dropbox.com/scl/fi/7yuix37gbad59qma3hi1x/Ch5.pdf?rlkey=zi16uwq78d418v03lh1mdtfb9\&dl=0)  |   2026-11-22  |
+|  6  | Maneuvering Models for Ships and USVs           |   3rd   |  [PDF](https://www.dropbox.com/scl/fi/f2ipl6gxs9a826b6i06dw/Ch6.pdf?rlkey=utqhkxv7y353rittx1dnte0fo\&dl=0)  |   2026-08-27  |
+|  7  | Autopilot Models for Course and Heading Control |   2nd   |  [PDF](https://www.dropbox.com/scl/fi/rth0nv12xsrf0ar8bsbwv/Ch7.pdf?rlkey=bjpndrhdfuxzc8281fx3n2hk8\&dl=0)  |   2025-09-09  |
+|  8  | Models for Underwater Vehicles                  |   2nd   |         [PDF](https://drive.google.com/file/d/1NEemmPazyFELrvziXi31iQZea1xYBPg9/view?usp=share_link)        |   2023-08-15  |
+|  9  | Control Forces and Moments                      |   2nd   |         [PDF](https://drive.google.com/file/d/11A74KPYcGeAzU2rVSkWgHbi9CvvBesRa/view?usp=share_link)        |   2023-03-29  |
+|  10 | Environmental Forces and Moments                |   2nd   |           [PDF](https://drive.google.com/open?id=1-Dk0AE7UrPKBOPdeKazJSIPymbp8x6cR\&usp=drive_fs)          |   2024-08-18  |
 |     | Part 2: Motion Control Systems                  |         |                                                                                                                 |               |
-|  11 | Introduction to Part II                         |   2nd   | [Ch11.pdf](https://www.dropbox.com/scl/fi/sryr1340ilvjv9dpfs62t/Ch11.pdf?rlkey=grlws4qw8edl69s38dqivqfkp\&dl=0) |   2025-10-16  |
-|  12 | Guidance Systems                                |   2nd   | [Ch12.pdf](https://www.dropbox.com/scl/fi/mf5ms14t9pp7mfe4qgf6w/Ch12.pdf?rlkey=odw8avz86a02w8tg6wnfmvu79\&dl=0) |   2025-09-20  |
-|  13 | Model-Based Navigation Systems                  |   2nd   |        [Ch13.pdf](https://drive.google.com/file/d/1K1RxgbNbvrErOX3CBtbcIcriACYm9Sm6/view?usp=share_link)        |   2022-11-04  |
-|  14 | Inertial Navigation Systems                     |   2nd   | [Ch14.pdf](https://www.dropbox.com/scl/fi/68ky3k4is0gahpxi3h010/Ch14.pdf?rlkey=6yq5djch0ycna9h69qz6xh4lz\&dl=0) |   2025-10-12  |
-|  15 | Motion Control Systems                          |   2nd   |        [Ch15.pdf](https://drive.google.com/file/d/1bJlyDYg5Le1PTa_0voSzYAO00ayzu9TA/view?usp=share_link)        |   2023-09-02  |
-|  16 | Advanced Motion Control Systems                 |   2nd   |        [Ch16.pdf](https://drive.google.com/file/d/1QepdGD2JdRnh8tlzRaXnrugr78LAoxQz/view?usp=share_link)        |   2021-06-25  |
+|  11 | Introduction to Part II                         |   2nd   | [PDF](https://www.dropbox.com/scl/fi/sryr1340ilvjv9dpfs62t/Ch11.pdf?rlkey=grlws4qw8edl69s38dqivqfkp\&dl=0) |   2025-10-16  |
+|  12 | Guidance Systems                                |   2nd   | [PDF](https://www.dropbox.com/scl/fi/mf5ms14t9pp7mfe4qgf6w/Ch12.pdf?rlkey=odw8avz86a02w8tg6wnfmvu79\&dl=0) |   2025-09-20  |
+|  13 | Model-Based Navigation Systems                  |   2nd   |  [PDF](https://drive.google.com/file/d/1K1RxgbNbvrErOX3CBtbcIcriACYm9Sm6/view?usp=share_link)        |   2022-11-04  |
+|  14 | Inertial Navigation Systems                     |   2nd   | [PDF](https://www.dropbox.com/scl/fi/68ky3k4is0gahpxi3h010/Ch14.pdf?rlkey=6yq5djch0ycna9h69qz6xh4lz\&dl=0) |   2025-10-12  |
+|  15 | Motion Control Systems                          |   2nd   | [PDF](https://drive.google.com/file/d/1bJlyDYg5Le1PTa_0voSzYAO00ayzu9TA/view?usp=share_link)        |   2023-09-02  |
+|  16 | Advanced Motion Control Systems                 |   2nd   |  [PDF](https://drive.google.com/file/d/1QepdGD2JdRnh8tlzRaXnrugr78LAoxQz/view?usp=share_link)        |   2021-06-25  |
 |     | Part 3: Appendices                            |         |                                                                                                                 |               |
-|  A  | Nonlinear Stability Theory                      |   2nd   |                                                                                                                 |               |
-|  B  | Numerical Methods                               |   2nd   |                                                                                                                 |               |
-|  C  | Model Transformations                           |   2nd   |                                                                                                                 |               |
-|  D  | Non-dimensional Equations of Motion             |   2nd   |                                                                                                                 |               |
+|  A  | Nonlinear Stability Theory                      |         |                                                                                                                 |               |
+|  B  | Numerical Methods                               |         |                                                                                                                 |               |
+|  C  | Model Transformations                           |         |                                                                                                                 |               |
+|  D  | Non-dimensional Equations of Motion             |         |                                                                                                                 |               |
+
+## How-to Guides
+
+| Guide                                        | PDF Slides                                                  | Last Modified |
+| :---------------------------------------------- | :-------------------------------------------------------------------------------------------------------------: | :-----------: |
+| How to Build Your Own 6-DOF Marine Craft Model with Waves                          | [PDF](https://www.dropbox.com/scl/fi/73g3m8kz8x5k8au5lxvxq/How-to-build-a-marine-craft-model.pdf?rlkey=0ew0zlrh8ajnnyprp30a6yk3a&dl=0?rlkey=733g820vq4vfxdn8pd9zl8xt9\&dl=0)  |   2026-11-24  |
+| How to Simulate Ocean Waves in MSS                                | [PDF](https://www.dropbox.com/scl/fi/6uraqlwdosavx3mnv7la4/How-to-simulate-ocean-waves.pdf?rlkey=w3jmc13qzx4yo2riiocst2srq&dl=0)   | 2026-11-24  |
 
 ## MSS (Marine Systems Simulator)
 
-The Marine Systems Simulator (MSS) Toolbox is a complementary MATLAB library for modeling, simulation, and control of marine craft. The MATLAB m-files are also compatible with the free software [GNU Octave](https://www.octave.org).
+The  [Marine Systems Simulator (MSS) Toolbox](https://github.com/cybergalactic/MSS) is a complementary MATLAB library for modeling, simulation, and control of marine craft. The MATLAB m-files are also compatible with the open-source software [GNU Octave](https://www.octave.org).
 
 MSS includes mathematical models for ships, AUVs, USVs, and floating structures. The toolbox also provides GNC algorithms, hydrodynamic models, environmental-force models, and time-domain simulation tools.
 
-[github.com/cybergalactic/MSS](https://github.com/cybergalactic/MSS)
-
 ## MSS-Capytaine
 
-MSS-Capytaine is an add-on that connects the open-source hydrodynamics software Capytaine with the MSS Toolbox. It provides tools to compute frequency-dependent hydrodynamic coefficients and wave-excitation forces using potential-flow theory, and to export the results directly to the MSS vessel-data format.
+ [MSS-Capytaine](https://github.com/cybergalactic/MSS-Capytaine) is an add-on that connects the open-source hydrodynamics software [Capytaine](capytaine.org) with the MSS Toolbox. It provides tools to compute frequency-dependent hydrodynamic coefficients and wave-excitation forces using potential-flow theory, and to export the results directly to the MSS vessel-data format.
 
-You can use the generated hydrodynamic data in MSS for seakeeping analysis, response-amplitude operators (RAOs), and time-domain simulation, using frequency-dependent or equivalent constant hydrodynamic models (power-based averaging).
-
-[github.com/cybergalactic/MSS-Capytaine](https://github.com/cybergalactic/MSS-Capytaine)
+You can use the generated hydrodynamic data in MSS for seakeeping analysis, response-amplitude operators (RAOs), and time-domain simulation, using frequency-dependent or equivalent constant hydrodynamic models (power-based averaging). 
 
 ## Python Vehicle Simulator
 
-The Python Vehicle Simulator complements the MATLAB MSS Toolbox and provides Python implementations of marine craft models for simulation and control. It includes models for AUVs, USVs, and ships.
+The [Python Vehicle Simulator](https://github.com/cybergalactic/PythonVehicleSimulator) complements the MATLAB MSS Toolbox and provides Python implementations of marine craft models for simulation and control. It includes models for AUVs, USVs, and ships.
 
-The vehicle models are based on corresponding MSS marine craft models. Each vehicle is implemented as a Python object with methods for vehicle dynamics and guidance, navigation, and control. The main program `main.py` provides an interactive framework for selecting vehicle models and running real-time simulations.
-
-[github.com/cybergalactic/PythonVehicleSimulator](https://github.com/cybergalactic/PythonVehicleSimulator)
-
-<img src="./src/pythonVehicleSim.png" width="1000"/>
+The vehicle models are based on corresponding MSS marine craft models. Each vehicle is implemented as a Python object with methods for vehicle dynamics and guidance, navigation, and control. The main program `main.py` provides an interactive framework for selecting vehicle models and running real-time simulations. 
