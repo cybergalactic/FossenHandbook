@@ -28,7 +28,7 @@ The textbook is used in the graduate course [TTK4190 Guidance, Navigation and Co
 |  11 | Introduction to Part II                         |   2nd   | [PDF](https://www.dropbox.com/scl/fi/sryr1340ilvjv9dpfs62t/Ch11.pdf?rlkey=grlws4qw8edl69s38dqivqfkp\&dl=0) |   2025-10-16  |
 |  12 | Guidance Systems                                |   2nd   | [PDF](https://www.dropbox.com/scl/fi/mf5ms14t9pp7mfe4qgf6w/Ch12.pdf?rlkey=odw8avz86a02w8tg6wnfmvu79\&dl=0) |   2025-09-20  |
 |  13 | Model-Based Navigation Systems                  |   2nd   |  [PDF](https://drive.google.com/file/d/1K1RxgbNbvrErOX3CBtbcIcriACYm9Sm6/view?usp=share_link)        |   2022-11-04  |
-|  14 | Inertial Navigation Systems                     |   2nd   | [PDF](https://www.dropbox.com/scl/fi/68ky3k4is0gahpxi3h010/Ch14.pdf?rlkey=6yq5djch0ycna9h69qz6xh4lz\&dl=0) |   2025-10-12  |
+|  14 | Strapdown Inertial Navigation Systems           |   2nd   | [PDF](https://www.dropbox.com/scl/fi/68ky3k4is0gahpxi3h010/Ch14.pdf?rlkey=6yq5djch0ycna9h69qz6xh4lz\&dl=0) |   2025-10-12  |
 |  15 | Motion Control Systems                          |   2nd   | [PDF](https://drive.google.com/file/d/1bJlyDYg5Le1PTa_0voSzYAO00ayzu9TA/view?usp=share_link)        |   2023-09-02  |
 |  16 | Advanced Motion Control Systems                 |   2nd   |  [PDF](https://drive.google.com/file/d/1QepdGD2JdRnh8tlzRaXnrugr78LAoxQz/view?usp=share_link)        |   2021-06-25  |
 |     | Part 3: Appendices                            |         |                                                                                                                 |               |
